@@ -17,4 +17,9 @@
  - 在終端機安裝 saos <br>
  - 先在 aos 網站找想要的滑入效果語法 <br>
  - 使用data-aos / data-aos-easing / data-aos-duration / data-aos-offset / data-aos-delay <br>
-          
+
+  1. 檔案 card.vue 及 imgText 皆使用 aos 套件 <br>
+ - 在終端機安裝 saos <br>
+ - 先在 aos 網站找想要的滑入效果語法 <br>
+ - 使用data-aos / data-aos-easing / data-aos-duration / data-aos-offset / data-aos-delay <br>
+
