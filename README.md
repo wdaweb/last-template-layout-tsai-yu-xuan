@@ -22,4 +22,9 @@
  - 在終端機安裝 saos <br>
  - 先在 aos 網站找想要的滑入效果語法 <br>
  - 使用data-aos / data-aos-easing / data-aos-duration / data-aos-offset / data-aos-delay <br>
+  ```
+          import card from '@/components/card.vue'
+import imgText from '@/components/imgText.vue'
+       ```
+        
 
