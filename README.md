@@ -10,7 +10,7 @@
        ```
           import carousel01 from '@/components/carousel01.vue'
        ```
-        <br>
+        
 5.使用在 v-main  <br>
       ```
        <v-main class="custom-main" style="width: 70%">
