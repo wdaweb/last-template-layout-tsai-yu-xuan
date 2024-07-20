@@ -17,11 +17,11 @@
        2. 先在 swiper 網站找想要的輪播圖並複製Vue語法
        3. 貼在檔案內並修改圖片、輪播效果
        4. 引用在App.Vue上
-          ```
-          import carousel01 from '@/components/carousel01.vue'
-          ```
-       5. 使用在 v-main 
        ```
+          import carousel01 from '@/components/carousel01.vue'
+       ```
+       5. 使用在 v-main 
+      ```
        <v-main class="custom-main" style="width: 70%">
         <v-container>
           <carousel01></carousel01>
@@ -29,7 +29,7 @@
       </v-main>
        ```
           
-     -[參考網站](https://jo-zu-works.site/)
+   [參考網站](https://jo-zu-works.site/)
 4. 需具備 RWD 大、中、小三種版型
 5. 繳交時不要上傳 node_modules
 
