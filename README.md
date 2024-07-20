@@ -9,10 +9,8 @@
    - [htmlrev](https://htmlrev.com/)
 2. 使用 Vuetify 或其他前端框架製作
 3. 使用三個套件，例如：GSAP, swiper, aos, lightbox, parallax...
-   - 繳交時寫在 README.md 註解說明
-     - 哪個元件用了哪個套件
-     - 在元件中使用的步驟順序
-       檔案 carousel01.vue 使用 swiper 輪播圖
+
+  - 檔案 carousel01.vue 使用 swiper 輪播圖
        1. 在終端機安裝 swiper
        2. 先在 swiper 網站找想要的輪播圖並複製Vue語法
        3. 貼在檔案內並修改圖片、輪播效果
