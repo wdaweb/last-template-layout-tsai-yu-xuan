@@ -24,6 +24,8 @@
  - 使用data-aos / data-aos-easing / data-aos-duration / data-aos-offset / data-aos-delay <br>
        ```
           iimport card from '@/components/card.vue'
+       ```
+       ```
           import imgText from '@/components/imgText.vue'
        ```
         
