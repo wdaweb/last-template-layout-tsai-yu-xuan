@@ -11,14 +11,7 @@
           import carousel01 from '@/components/carousel01.vue'
        ```
         
-5.使用在 v-main  <br>
-      ```
-       <v-main class="custom-main" style="width: 70%">
-        <v-container>
-          <carousel01></carousel01>
-        </v-container>
-      </v-main>
-       ```
+
  <br>
    2. 檔案 card.vue 及 imgText 皆使用 aos 套件 <br>
 1.在終端機安裝 saos <br>
