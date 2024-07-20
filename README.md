@@ -3,10 +3,10 @@
 
  [參考網站](https://jo-zu-works.site/)
   1. 檔案 carousel01.vue 使用 swiper 輪播圖
-     1.在終端機安裝 swiper
-     2.先在 swiper 網站找想要的輪播圖並複製Vue語法
-     3.貼在檔案內並修改圖片、輪播效果
-     4.引用在App.Vue上
+    1.在終端機安裝 swiper
+    2.先在 swiper 網站找想要的輪播圖並複製Vue語法
+    3.貼在檔案內並修改圖片、輪播效果
+    4.引用在App.Vue上
        ```
           import carousel01 from '@/components/carousel01.vue'
        ```
